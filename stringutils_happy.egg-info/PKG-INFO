@@ -3,8 +3,8 @@ Name: stringutils-happy
 Version: 0.1.0
 Summary: A utility library for string manipulation
 Home-page: https://github.com/masakiShito/stringutils_happy
-Author: Your Name
-Author-email: your.email@example.com
+Author: Masaki Shito
+Author-email: happy.engineer.life@gmail.com
 License: UNKNOWN
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
