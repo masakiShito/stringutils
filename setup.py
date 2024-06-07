@@ -13,7 +13,7 @@ setup(
     description='A utility library for string manipulation',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/masakiShito/stringutils',
+    url='https://github.com/masakiShito/stringutils_happy',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
