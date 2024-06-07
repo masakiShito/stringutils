@@ -1,6 +1,6 @@
-# stringutils
+# stringutils_happy
 
-stringutils is a Python library for various string manipulation tasks.
+stringutils_happy is a Python library for various string manipulation tasks.
 
 ## Features
 
@@ -14,7 +14,8 @@ stringutils is a Python library for various string manipulation tasks.
 You can install the library using pip:
 
 ```bash
-pip install stringutils
+pip install stringutils_happy
+ll stringutils
 ```
 
 # Usage
